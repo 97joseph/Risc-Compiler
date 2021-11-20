@@ -385,25 +385,4 @@ waveforms, you need to show the 4
 results(preferred in decimal raidx) of
 the 4 instructions in instruction memory.
 
-# 2. What to Turn In
-
-2.1. For Lab 7 Inlab Report
-
-- **Due Date:** Lab 7 in-lab report is due in
-  the week of November 15.
-- **Points assigned to inlab Assignment:** 10
-  points for Lab 7 come from inlab assignment report submission
-- **Penalty for late submission:** You have
-  one extra week to submit the in-lab report late. But this will attract a
-  penalty of 4 points. So, if you miss your deadline in the week of November 15,
-  you can still submit it a week later, in the week of November 22 but with a
-  penalty.
-- **Content of the in-lab report: **
-
-You must submit an electronic copy of the
-following items (in the correct order, and each part clearly labeled) via
-Sakai. Submit it to the Lab 7 In-Lab Assignment. All
-items should all be included in a single
-file (.pdf).
-
 ![](file:///C:/Users/97jos/AppData/Local/Packages/oice_16_974fa576_32c1d314_3ac0/AC/Temp/msohtmlclip1/01/clip_image028.jpg)
